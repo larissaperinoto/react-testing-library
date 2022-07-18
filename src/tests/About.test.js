@@ -18,10 +18,6 @@ describe('Testa o componente About', () => {
     expect(title).toBeInTheDocument();
   });
 
-  test('Verifica se página contém dois paragrafos', () => {
-
-  });
-
   test('Verifica se a página possui dois parágrafos', () => {
     render(<About />);
 
