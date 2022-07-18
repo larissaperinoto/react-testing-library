@@ -3,7 +3,7 @@ import { screen } from '@testing-library/react';
 import renderWithRouter from './utils/renderWithRouter';
 import App from '../App';
 
-describe('Testa o componente App.js', () => {
+describe('Testa o componente NotFound.js', () => {
   test('Verifica se a página contém um titulo', () => {
     const { history } = renderWithRouter(<App />);
     history.push('/pagina-que-nao-existe');

@@ -5,7 +5,7 @@ import FavoritePokemons from '../pages/FavoritePokemons';
 import App from '../App';
 import renderWithRouter from './utils/renderWithRouter';
 
-describe('Testa o componente Favorite Pokemons', () => {
+describe('Testa o componente FavoritePokemons.js', () => {
   test('Verifica se a página contém um titulo', () => {
     render(<FavoritePokemons />);
     const title = screen.getByRole('heading', {
