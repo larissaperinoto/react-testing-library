@@ -22,7 +22,6 @@ A Pokedéx é uma aplicação que oferece informações sobre pokemons e suas ev
 
 A aplicação foi criada utilizando [ReactJS](https://pt-br.reactjs.org/) e os testes foram desenvolvidos com [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) e [Jest](https://jestjs.io/).
 
-<br>
 
 ## Execução
 
